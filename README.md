@@ -1,0 +1,3 @@
+# Amigo Secreto
+<p><b>Descripción del código</b></p>
+<p>Juego interactivo que sortea el nombre de alguno de tus compañeros. Este esta basado en que se insertan varios nombres de compañeros hasta formar una lista, cuando ya hayan varios nombres insertados se presiona el botón "Sortear Amigo" para seleccionar uno de estos y al final se muestra el nombre de la persona sorteada. <br>Si no hay algun nombre escrito y se presiona el botón se sortear, mostrara un mensaje diciendo que primero se deben de insertar nombres a la lista. <br>Si se presiona el botón "Añadir" y no hay ningún nombre en el contenedor, nos pedira ingresar un nombre válido.</p>
